@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Domain: wp-voltsec-io\n"
+
+msgid "WP Voltsec.io Admin Page"
+msgstr ""
+
+msgid "Plugin Settings"
+msgstr ""
+
+msgid "Enable Two-Factor Authentication"
+msgstr ""
+
+msgid "Enable 2FA for admin users."
+msgstr ""
+
+msgid "WP Voltsec.io Settings"
+msgstr ""
+
+msgid "API Key"
+msgstr ""
+
+msgid "This page is protected by WP Voltsec.io"
+msgstr ""
+
+# ... more text strings ...
+
