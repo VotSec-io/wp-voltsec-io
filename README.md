@@ -1,4 +1,4 @@
-*=== WP Voltsec.io ===*
+#WP Voltsec.io#
 
 Contributors: Prashant Goel
 Tags: security, plugin, WordPress
