@@ -4,7 +4,7 @@ Plugin Name: WP Voltsec.io
 Plugin URI: https://github.com/VotSec-io/wp-voltsec-io
 Description: Enhance the security of your WordPress site with WP Voltsec.io plugin.
 Version: 1.0
-Author: Your Name
+Author: Prashant Goel
 Author URI: https://github.com/VotSec-io
 Text Domain: wp-voltsec-io
 Domain Path: /languages
